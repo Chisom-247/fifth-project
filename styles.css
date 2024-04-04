@@ -326,6 +326,9 @@ footer{
     .article-2{
         font-size: 20px;
     }
+    .paragragh button{
+        width: 30%;
+    }
     
     .col-md-1{
         width: 8.33%;
@@ -375,10 +378,35 @@ footer{
         flex-wrap: wrap;
         justify-content: space-around;
    }
+   .main-3{
+    height: 200vh;
+    font-size: medium;
+   }
+   .img-1{
+    width: 100%;
+   }
+   .article-1{
+    font-size: smaller;
+   }
+   .img-2{
+    width: 100%;
+   }
+   .article-2{
+    font-size: smaller;
+   }
    .main-container{
         display: flex;
         flex-wrap: wrap;
    }
+   .paragragh button{
+        width: 50%;
+   }
+   .paragragh{
+    width: fit-content;
+   }
+   .aside-footer{
+    width: 80%;
+}
    .col-1{
         width: 8.33%;
    }
