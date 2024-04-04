@@ -372,14 +372,14 @@ footer{
 /* Extra Small Devices */
 @media(max-width:575px){
    .main-2{
-        width: 90%;
+        width: 95%;
         height: 25vh;
         display: flex;
         flex-wrap: wrap;
         justify-content: space-around;
    }
    .main-3{
-    height: 200vh;
+    height: 130vh;
     font-size: medium;
    }
    .img-1{
@@ -388,12 +388,18 @@ footer{
    .article-1{
     font-size: smaller;
    }
+   .article-1 h2{
+        font-size: 30px;
+   }
    .img-2{
     width: 100%;
    }
    .article-2{
     font-size: smaller;
    }
+   .article-2 h2{
+    font-size: 30px;
+}
    .main-container{
         display: flex;
         flex-wrap: wrap;
